@@ -1,4 +1,4 @@
-from python15 import person1
+from code2 import person1
 
 a=person1["Branch"]
 print(a)
