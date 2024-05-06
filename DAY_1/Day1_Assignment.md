@@ -36,7 +36,7 @@ This code defines a function `get_and_display_details()` that prompts the user t
 # Question 3:
 
 ```python
-import solution3 as s
+import Code4 as s
 
 # a.)
 a = s.area_of_rectangle(5,2)
