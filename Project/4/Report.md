@@ -1,9 +1,9 @@
-### **Project Report: SkyGuard: Predicting AQI with LSTM Models using PyTorch (LSTM-Based AQI Prediction)**
+### **Project Report: AirCast - LSTM-Based AQI Prediction using PyTorch**
 
 ---
 
 #### **1. Project Name:**
-**SkyGuard: Predicting AQI with LSTM Models using PyTorch LSTM-Based AQI Prediction**
+**AirCast - LSTM-Based AQI Prediction using PyTorch LSTM-Based AQI Prediction**
 
 ---
 
